@@ -20,24 +20,17 @@ class Mymail
             $mail->CharSet = 'UTF-8';
             /* $mail->SMTPDebug = 2;      */                // Enable verbose debug output
             $mail->isSMTP();                                            // Send using SMTP
-            $mail->Host       = 'ns926.hostgator.com.br';                    // Set the SMTP server to send through
+            $mail->Host       = '*********';                    // Set the SMTP server to send through
             $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
-            $mail->Username   = 'contato@odiariomagico.com.br';                     // SMTP username
-            $mail->Password   = 'Rodka&Enoc02';                               // SMTP password
+            $mail->Username   = '**************';                     // SMTP username
+            $mail->Password   = '*************';                               // SMTP password
             $mail->SMTPSecure = 'ssl';         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
             $mail->Port       = 465;                                    // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
 
             //Recipients
-            $mail->setFrom('contato@odiariomagico.com.br', 'Equipe Diário Mágico');
+            $mail->setFrom('*********************', 'Equipe Diário Mágico');
             $mail->addAddress($address, $recipient);     // Add a recipient
-            /* $mail->addAddress('ellen@example.com');               // Name is optional
-            $mail->addReplyTo('info@example.com', 'Information');
-            $mail->addCC('cc@example.com');
-            $mail->addBCC('bcc@example.com'); */
-
-            // Attachments
-            /* $mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
-            $mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name */
+        
 
             // Content
             $mail->isHTML(true);                                  // Set email format to HTML
