@@ -1,0 +1,38 @@
+/*fonts*/
+@font-face{
+    font-family: "Quadro";
+    src: url("../fonts/kgblankspacesketch-webfont.woff") format("woff");
+    src: url("../fonts/kgblankspacesketch-webfont.woff2") format("woff2"); 
+}
+@font-face{
+    font-family: "Smarc";
+    src: url("../fonts/smarc.woff") format("woff");
+    src: url("../fonts/smarc.woff2") format("woff2"); 
+}
+@font-face{
+    font-family: "Grinched";
+    src: url("../fonts/grinched_2.woff") format("woff");
+    src: url("../fonts/grinched_2.woff2") format("woff2"); 
+}
+
+/*gerais*/
+body{
+    background-color: white;
+    
+}
+main{
+    height: 100vh !important;
+}
+
+/*classes cabeçalho*/
+.header{
+    font-family: 'Quadro',  Arial, sans-serif;;
+    padding: 8px;
+    background-color: #d3d0f0;
+}
+#logo_main_img{
+    width: inherit;
+} 
+.clear {
+    clear: both;
+}

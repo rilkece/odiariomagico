@@ -1,0 +1,84 @@
+.room-title{
+    font-family: 'Grinched',  Arial, sans-serif;;
+	font-size: xxx-large;
+    text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black;
+    color: white;
+    border-color: red;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+.room-school{
+    
+    text-shadow: 0 0 5px white, 0 0 5px white, 0 0 5px white, 0 0 5px white;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+
+}
+.classroom-pic{
+    max-height: 400px;
+    object-fit: cover;
+}
+.classroom-icon{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+@media  (max-width: 768px) {
+       #icon_link_diarioClasse{
+        width: 80px;
+        height: 80px;
+        position: absolute;
+        top: 0;
+        left: 15%;
+        transform: translate(-50%, -50%);
+        border-color: #4285f4;
+        border-width: 5px;
+        border-style: solid;
+        z-index: 1000;
+    }
+    #icon_link_professores{
+        width: 80px;
+        height: 80px;
+        position: absolute;
+        top: 0;
+        left: 40%;
+        transform: translate(-50%, -50%);
+        border-color: #ff3547;
+        border-width: 5px;
+        border-style: solid;
+        z-index: 1000;
+    }
+    #icon_link_estudantes{
+        width: 80px;
+        height: 80px;
+        position: absolute;
+        top: 0;
+        left: 65%;
+        transform: translate(-50%, -50%);
+        border-color: #00c851 ;
+        border-width: 5px;
+        border-style: solid;
+        z-index: 1000;
+    }
+    #icon_link_missoes{
+        width: 80px;
+        height: 80px;
+        position: absolute;
+        top: 0;
+        left: 90%;
+        transform: translate(-50%, -50%);
+        border-color: #fb3;
+        border-width: 5px;
+        border-style: solid;
+        z-index: 1000;
+    }
+  }

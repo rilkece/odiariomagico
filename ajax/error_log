@@ -1,0 +1,101 @@
+[18-Feb-2021 01:18:43 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 01:18:59 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 01:19:05 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 01:19:19 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 01:20:24 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 10:30:06 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 10:30:24 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 16:58:45 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:00:26 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:00:44 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:00:52 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:03:29 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:03:35 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:04:44 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:05:48 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:06:32 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:06:40 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:08:06 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:08:26 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:08:33 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:08:53 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:09:32 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:10:49 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:19:26 America/Fortaleza] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home2/odiari97/public_html/ajax/form_login.php on line 29
+[18-Feb-2021 17:19:26 America/Fortaleza] PHP Warning:  require_once(https://odiariomagico.com.br/class/Conexao.php): failed to open stream: no suitable wrapper could be found in /home2/odiari97/public_html/ajax/form_login.php on line 29
+[18-Feb-2021 17:19:26 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'https://odiariomagico.com.br/class/Conexao.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/odiari97/public_html/ajax/form_login.php on line 29
+[18-Feb-2021 17:30:33 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:30:39 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:31:35 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:31:40 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:32:03 America/Fortaleza] PHP Warning:  Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP) in /home2/odiari97/public_html/class/Conexao.php on line 28
+[18-Feb-2021 17:47:28 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/odiari97/public_html/ajax/form_login.php on line 83
+[18-Feb-2021 20:54:10 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 20:54:10 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 20:54:10 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 20:54:10 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 20:54:10 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 20:54:10 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 20:54:10 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 20:54:10 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 20:54:10 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 20:54:10 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 20:54:10 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 20:54:10 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 20:54:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Non-static method Mymail::__construct() cannot be called statically in /home2/odiari97/public_html/ajax/email_password.php:51
+Stack trace:
+#0 {main}
+  thrown in /home2/odiari97/public_html/ajax/email_password.php on line 51
+[18-Feb-2021 20:57:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 20:57:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 20:57:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 20:57:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 20:57:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 20:57:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 20:57:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 20:57:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 20:57:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 20:57:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 20:57:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 20:57:17 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:03:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:03:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:03:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:03:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:03:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:03:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:03:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:03:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:03:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:03:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:03:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:03:05 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:04:23 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:04:23 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:04:23 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:04:23 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:04:23 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:04:23 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:04:23 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:04:23 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:04:23 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:04:23 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:04:23 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:04:23 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:07:48 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:07:48 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:07:48 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:07:48 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:07:48 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:07:48 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 49
+[18-Feb-2021 21:07:48 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:07:48 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:07:48 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:07:48 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:07:48 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:07:48 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[18-Feb-2021 21:07:48 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 51
+[18-Feb-2021 21:07:48 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 51
+[18-Feb-2021 21:07:48 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/odiari97/public_html/ajax/email_password.php on line 51
+[25-Feb-2021 17:06:31 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home2/odiari97/public_html/ajax/email_password.php on line 50
+[25-Feb-2021 17:07:11 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home2/odiari97/public_html/ajax/email_password.php on line 50

@@ -1,0 +1,2 @@
+- config.php
+- script/main_script.js

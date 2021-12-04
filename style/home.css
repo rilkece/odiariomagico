@@ -1,0 +1,122 @@
+main{
+	text-align: center;
+	text-align: -webkit-center;
+}
+
+.profile-pic{
+    height: 200px; 
+    width: 200px;
+}
+.triangle-up {
+	width: 0;
+	height: 0;
+	border-left: 15px solid transparent;
+	border-right: 15px solid transparent;
+	border-bottom: 30px solid rgb(255, 217, 0);
+}
+
+label{
+	padding-right:20px;
+}
+.home-info p{
+	font-family: 'Quadro',  Arial, sans-serif;;
+	font-size: x-large;
+}
+.card{
+	color: white !important;
+	height: 200px;
+	width: 200px;
+	border-radius: 10px;
+}
+.card-body img{
+	height: 150px;
+	width: 150px;
+	
+}
+.card-list{
+	width: 100% !important;
+	height: unset !important;
+	background-color: darkgoldenrod;
+}
+.card-list p{
+	color: bisque !important;
+}
+.card-list-rooms{
+	width: 100% !important;
+	height: unset !important;
+	background-color: darkcyan;
+}
+.card-list-rooms p{
+	color: bisque !important;
+}
+#home_menu_card_sair{
+	background-color: darkred;
+}
+#home_menu_card_sair :hover{
+	background-color: red !important;
+	border-radius: 10px !important;
+}
+#home_menu_card_edit_user{
+	background-color: darkgreen;
+}
+#home_menu_card_edit_user :hover{
+	background-color: green !important;
+	border-radius: 10px !important;
+}
+#home_menu_card_create_student{
+	background-color: darkblue;
+}
+#home_menu_card_create_student :hover{
+	background-color: blue !important;
+	border-radius: 10px !important;
+}
+#home_menu_card_create_room{
+	background-color: darkgrey;
+}
+#home_menu_card_create_room :hover{
+	background-color: grey !important;
+	border-radius: 10px !important;
+}
+#home_menu_card_students_created{
+	background-color: darkgoldenrod;
+}
+#home_menu_card_students_created :hover{
+	background-color: goldenrod !important;
+	border-radius: 10px !important;
+}
+#home_menu_card_rooms_created{
+	background-color: darkcyan;
+}
+#home_menu_card_rooms_created :hover{
+	background-color: cyan !important;
+	border-radius: 10px !important;
+}
+#home_menu_card_missions_created{
+	background-color: darksalmon;
+}
+#home_menu_card_missions_created :hover{
+	background-color: salmon !important;
+	border-radius: 10px !important;
+}
+#home_menu_card_journal{
+	background-color: darkkhaki;
+}
+#home_menu_card_journal :hover{
+	background-color: khaki!important;
+	border-radius: 10px !important;
+}
+#home_menu_card_students_rooms{
+	background-color: darkslategray;
+}
+#home_menu_card_students_rooms :hover{
+	background-color: lightslategray!important;
+	border-radius: 10px !important;
+}
+form strong{
+	font-weight: bold !important;
+}
+
+.img_medal{
+	width: 50px;
+	height: 50px;
+}
